@@ -87,6 +87,8 @@ dotnet run
 
 ## 📈 Próximos Passos
 
-- Criar camada de interface (CLI) para interação com o usuário final
-- Adicionar testes automatizados com frameworks como **xUnit** ou **NUnit**
-- Explorar POO avançada com princípios **SOLID** e **Design Patterns**
+- Adicionar um **menu em CLI** para interação com o usuário
+- Implementar **exceções personalizadas** para regras de negócio
+- Adicionar **testes automatizados** com frameworks (xUnit ou NUnit)
+- Implementar **persistência de dados** (JSON ou banco de dados)
+- Criar **relatórios** de ocupação, faturamento e reservas
