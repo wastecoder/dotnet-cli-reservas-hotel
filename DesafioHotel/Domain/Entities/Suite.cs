@@ -4,8 +4,8 @@ namespace DesafioHotel.Domain.Entities;
 
 public class Suite
 {
-    public required TipoSuite TipoSuite { get; set; }
-    public required bool PossuiCamaCasal { get; set; }
+    public TipoSuite TipoSuite { get; set; }
+    public bool PossuiCamaCasal { get; set; }
 
     private int _capacidade;
     private decimal _valorDiaria;
