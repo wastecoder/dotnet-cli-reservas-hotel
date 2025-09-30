@@ -2,7 +2,7 @@
 using DesafioHotel.Domain.Services;
 using DesafioHotel.Domain.Enums;
 
-namespace CsharpPOO.Testes;
+namespace DesafioHotel.Tests;
 
 public class ReservaServiceTest
 {

@@ -1,4 +1,4 @@
-﻿using CsharpPOO.Testes;
+﻿using DesafioHotel.Tests;
 
 SuiteServiceTest.Executar();
 
