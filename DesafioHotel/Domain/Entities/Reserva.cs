@@ -2,8 +2,8 @@
 
 public class Reserva
 {
-    public required DateOnly DataCheckIn { get; set; }
-    public required DateOnly DataCheckOut { get; set; }
+    public DateOnly DataCheckIn { get; set; }
+    public DateOnly DataCheckOut { get; set; }
 
     private int _diasReservados;
     private List<Pessoa> _hospedes = [];
