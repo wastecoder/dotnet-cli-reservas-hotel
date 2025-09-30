@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using CsharpPOO.Testes;
 
-Console.WriteLine("Hello, World!");
+SuiteServiceTest.Executar();
+
+Console.WriteLine("\n+===================+\n");
+
+ReservaServiceTest.Executar();
